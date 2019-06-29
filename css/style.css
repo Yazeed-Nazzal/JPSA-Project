@@ -360,7 +360,6 @@ hr
 {
   margin-top: 10px;
   background-color:#ebebeb;
-  height: 350px;
   border-radius: 5px;
   text-align: center;
 }
@@ -376,10 +375,7 @@ text-align: center;
 margin-bottom: 30px;
 
 }
-.location
-{
-  height: 350px;
-}
+
 .location ul 
 {
   margin-top: 60px;
