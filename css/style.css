@@ -305,6 +305,7 @@ hr
     border-radius: 0%;;
     width: 100%;
     padding: 5px;
+    margin: 5px;
    }
   
   .who-mission, .vision-ipsf
@@ -337,6 +338,7 @@ hr
   {
     padding-top: 0px;
     margin-top: 0px;
+    margin-bottom: 5px;
   }
   .vision-ipsf
   {
