@@ -4,6 +4,7 @@ $(document).ready(function() {
     $(".menu-toogle").on("click",function() {
     $("nav").slideToggle();
     });
+    
     // end slide the nav br in mobile 
     //end nav bar
     //start 
@@ -36,6 +37,16 @@ $(document).ready(function() {
     $(".slider, .carousel-item ").height(screen.height - 300);
     $(".content").css("top",-70)
     $(".event-slider").css("top", -windowheight/8);
+    $( "nav a" ).hover(
+        function() {
+         $(this).css("color","#FFF");
+        }, function() {
+            $(this).css("color","#000");
+        }
+      );
+       
+      
+    
     }
 
     $(window).on("resize",function () {

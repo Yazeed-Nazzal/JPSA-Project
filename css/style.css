@@ -74,13 +74,11 @@ second color :##ddb517
  header nav ul li a:hover
  {
    background-color: #ddb517;
+   color: #FFF;
    
 
  }
- header nav ul li:hover
- {
-   color: #FFF;
- }
+
 
  #last
  {
@@ -341,6 +339,7 @@ hr
     position:relative;
     top:0px;
     text-align: center;
+    height: 900px;
   }
 }
 .ipsf p , .who-we-are p
