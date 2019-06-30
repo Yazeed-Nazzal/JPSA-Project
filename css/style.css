@@ -278,7 +278,7 @@ hr
   margin-bottom: 42px;
 }
 
- .cir 
+ .cir  
 {
   border: solid 1px #000;
     border-radius: 50%;
@@ -291,9 +291,6 @@ hr
 }
 @media(max-width: 1030px)
 {
-  .cir{
-    height: auto;
-  }
 
   .who-we-are , .vision
 
@@ -302,15 +299,14 @@ hr
   margin-bottom: 30px;
 
 }
-  .cir
+ .cir
    {
     border:none ;
-    
     border-radius: 0%;;
     width: 100%;
-    height: 100%;;
     padding: 5px;
-  }
+   }
+  
   .who-mission, .vision-ipsf
   {
     padding: 10px;
