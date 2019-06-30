@@ -278,7 +278,7 @@ hr
   margin-bottom: 42px;
 }
 
- .cir  
+ .cir 
 {
   border: solid 1px #000;
     border-radius: 50%;
@@ -291,6 +291,9 @@ hr
 }
 @media(max-width: 1030px)
 {
+  .cir{
+    height: auto;
+  }
 
   .who-we-are , .vision
 
