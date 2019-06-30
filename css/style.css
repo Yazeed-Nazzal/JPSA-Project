@@ -225,6 +225,8 @@ second color :##ddb517
 
 .event-slider
 {
+  /* temprorary edit */
+ visibility: hidden;
   position: relative;
   top: 0px;
   left: 45%;
