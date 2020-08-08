@@ -8,6 +8,7 @@ $(document).ready(function() {
     // end slide the nav br in mobile 
     //end nav bar
     //start 
+    
     var windowheight = screen.height,
     headerheight = $("header").innerHeight();
     if ($(window).innerWidth()<=450)

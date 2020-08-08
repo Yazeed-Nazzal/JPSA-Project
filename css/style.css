@@ -18,6 +18,7 @@ second color :##ddb517
    background: #FFF;
    margin-top: 6px;
    box-shadow: 5px 0px 10px  lightgrey;
+  
 
  }
  header .logo
@@ -27,8 +28,6 @@ second color :##ddb517
     background-size: cover;
     width: 100px;
     height: 50px;
-    
-    
  }
  header nav 
  {
@@ -178,7 +177,7 @@ second color :##ddb517
 .slider
 {
     
-    margin: 0px 10%;
+    margin: 0px 8%;
     margin-top: 9px;;
 }
 .slider .carousel-item
@@ -249,8 +248,9 @@ second color :##ddb517
 .content
 {
  position: relative;
- margin-top: 20px;
+ margin-top:8%;
  font-size: 19px;
+
  
 }
 hr
